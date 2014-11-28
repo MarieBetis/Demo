@@ -1,6 +1,6 @@
 <%-- 
-    Document   : index
-    Created on : 2014-11-28, 11:32:31
+    Document   : menu
+    Created on : 2014-11-28, 11:39:16
     Author     : Invité
 --%>
 
@@ -13,6 +13,5 @@
     </head>
     <body>
         <h1>Hello World!</h1>
-        <h2>Hello World!</h2>
     </body>
 </html>
